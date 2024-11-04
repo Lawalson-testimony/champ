@@ -1,0 +1,140 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.log-in {
+    /* background-color: rgb(197, 96, 29); */
+    display: flex;
+    margin: 0 80px;
+    gap: 140px;
+    /* height: 100vh; */
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.right {
+    /* background-color: yellow; */
+}
+
+.left {
+    /* background-color: blue; */
+    margin-top: 3rem;
+}
+
+.left h1 {
+    text-align: center;
+    align-self: center;
+    margin-bottom: 35px;
+    font-family: Raleway, Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 37.57px;
+    letter-spacing: 0.03em;
+
+}
+
+.mail p {
+    font-family: Raleway, Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 23.48px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    margin-bottom: 0.5rem;
+
+}
+
+.mail input {
+    width: 534px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid grey;
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18.78px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    padding: 1rem;
+
+
+}
+
+.pass p {
+    margin-top: 20px;
+    font-family: Raleway, Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 23.48px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    margin-bottom: 0.5rem;
+
+}
+
+.pass input {
+    width: 534px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid grey;
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18.78px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    align-self: center;
+    padding: 1rem;
+    justify-content: center;
+}
+.forgot{
+    font-family: Raleway, Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18.78px;
+    text-align: right;
+    margin-top: 10px;
+    text-decoration: none;
+    color: #C4C4C4;
+
+}
+
+.log {
+    margin-top: 50px;
+}
+
+.log a {
+
+    text-decoration: none;
+    color: white;
+    background: #295251;
+    padding: 14px 240px;
+    border-radius: 8px;
+    font-family: Raleway, Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+
+}
+
+.foot,.foot a {
+    font-family: Raleway, Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18.78px;
+    text-align: center;
+    margin-top: 30px;
+    text-decoration: none;
+}
+.foot,
+.foot a {
+    font-family: Raleway, Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18.78px;
+    text-align: center;
+    margin-top: 30px;
+    text-decoration: none;
+}
